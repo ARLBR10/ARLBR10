@@ -9,10 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ARLBR10&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARLBR10&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️My Dev Quote
+### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Dev Meme
+### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
